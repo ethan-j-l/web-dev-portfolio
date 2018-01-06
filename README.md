@@ -1,7 +1,12 @@
 # Ethan J. Li
 
+I am a freelance Full Stack WordPress Developer in my spare time. In the last 4 years I have worked with graphic designers and developed several WordPress based websites. 
 
-A list of WordPress websites I have developed in the past in chronological order.
+I have a lot of experience in communicating technical ideas to non-technical people.
+
+For my day job, I work as a C++ Software Developer on video games and game engines. I enjoy digging into complex systems and tackle difficult problems.
+
+### Projects (in chronological order)
 
 #### ShanghaiPRIDE - [shpride.com](http://www.shpride.com/)
 <img src="images/shpride.png" width="60%">
