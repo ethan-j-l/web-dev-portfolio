@@ -20,7 +20,7 @@ For my day job, I work as a C++ Software Developer on video games and game engin
 #### Royal Asiatic Society China in Shanghai - [royalasiaticsociety.org.cn](http://www.royalasiaticsociety.org.cn/)
 <img src="images/ras-shanghai.png" width="60%">
 
-#### Paul Cheung Chiropractic -[paulbackguru.com](http://www.paulbackguru.com/)
+#### Paul Cheung Chiropractic - [paulbackguru.com](http://www.paulbackguru.com/)
 <img src="images/paulcheung.png" width="60%">
 
 #### M2 Communications Graphic Design - [m2communications.me]( http://m2communications.me/)
