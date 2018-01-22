@@ -1,8 +1,8 @@
 # Ethan J. Li
 
-I am a freelance Full Stack WordPress Developer in my spare time. In the last 4 years I have worked with graphic designers and developed several WordPress based websites. 
+I am an efficient Shopify & WordPress Developer based in Montreal, Canada. I enjoy working on challenging projects and finishing work faster than I quoted.
 
-I have a lot of experience in communicating technical ideas to non-technical people.
+I have a lot of experience in communicating technical ideas with non-technical people. I am good at spotting potential miscommunications between developers & non-developers. I tend to ask many questions before taking a job, such that I am on the same page with the clients in terms of what they want.
 
 For my day job, I work as a C++ Software Developer on video games and game engines. I enjoy digging into complex systems and tackle difficult problems.
 
